@@ -1,0 +1,12 @@
+{
+    "name": "dwp7399/hasher",
+    "description": "Md5 support in laravel",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Laravist\\Hasher\\": "src/"
+        }
+    }
+}
